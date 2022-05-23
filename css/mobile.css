@@ -1,0 +1,52 @@
+/* Utility Classes */
+.display-1 {
+	font-size: 50px;
+}
+
+/* Header */
+#mainheader {
+	height: 100%;
+}
+
+/* Navbar */
+#navbar ul li {
+	margin-left: 20px;
+}
+
+/* Showcase */
+#showcase {
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+
+/* Work */
+#work .work-row {
+	flex-direction: column;
+}
+
+/* About */
+#about {
+	flex-direction: column;
+}
+
+#about .about-slim {
+	display: none;
+}
+
+/* Contact */
+#contact {
+	padding: 80px 0;
+}
+
+#contact .contact-info p {
+	font-size: 14px;
+}
+
+#contact .contact-logo img {
+	height: 60px;
+}
+
+#contact .contact-social img {
+	height: 20px;
+	margin: 2px;
+}
